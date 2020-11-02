@@ -1,0 +1,30 @@
+
+body{
+    background-color: lavender;
+}
+.navbar-custom{
+    background-color: rebeccapurple;
+}
+
+.navbar-nav{
+    background-color: salmon;
+    width: 100%;
+    text-align: center;
+}
+
+#navbarNavAltMarkup{
+    width: 100%;
+}
+
+h3{
+    text-align: center;
+}
+
+.chicken{
+    background-color: plum
+}
+
+.sushi{
+    background-color: plum;
+}
+
